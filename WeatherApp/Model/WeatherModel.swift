@@ -27,9 +27,9 @@ struct WeatherModel {
         case 700...781:
             return "cloud.fog"
         default:
-            ""
+            return "error"
         }
-       return ""
+     
     }
     var temperatureString : String {
        return String(format: "%.1f", temperature)
