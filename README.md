@@ -21,6 +21,7 @@ let weatherURL = "https://api.openweathermap.org/data/2.5/weather?appid=YOUR_API
 * Replace YOUR_API_KEY.
 
 ## Sample Screen 
-<img src="https://user-images.githubusercontent.com/105754659/219146058-301cd805-e259-4907-b0ed-1d51b457f272.png" width="200"><img src="https://user-images.githubusercontent.com/105754659/219146065-c1c8e01b-5753-4be5-8640-3e158f03fdc2.png" width="200"><img src="https://user-images.githubusercontent.com/105754659/219146068-02483c98-a692-4c68-af79-64d1c089abd8.png" width="200">
+<img src="https://user-images.githubusercontent.com/105754659/219148137-cd4adee2-9bd0-440f-b429-067a80bd8698.png" width="200"><img src="https://user-images.githubusercontent.com/105754659/219146065-c1c8e01b-5753-4be5-8640-3e158f03fdc2.png" width="200"><img src="https://user-images.githubusercontent.com/105754659/219146068-02483c98-a692-4c68-af79-64d1c089abd8.png" width="200">
+
 
 
